@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ff003b;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    color: black;
+    text-decoration: black;
+    text decoration none
+
+    }
+body{
+    background-image: url("assets/images/kfc.jpg");
+
+
+}
+th,td{
+    border: 2px double
+    padding:20px;
+    font-family: "Candara Light"
+    ;font-size:20px
+    transform:translate(20%,20%);
+        background: beige;
+{
+    table
+    border-collapse:collapse;
+    width: 100%;
+}
+
+}
+
+
+
+
+
+

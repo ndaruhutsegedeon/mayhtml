@@ -1,0 +1,35 @@
+.fruits{
+    border:2px solid red;
+    text-align: center;
+    padding: 15px;
+
+    margin: 15px;
+    color: blue;
+}
+.cars{
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    margin:15px;
+    color: #ff003b;
+}
+#school{
+    border: 1px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #ff003b;
+}
+.myform{
+    border:10px solid red ;
+    text-align:center ;
+    padding:10px ;
+    margin: 10px;
+    color: black;
+    transform: translate(20%,20%);
+    background: aliceblue;
+}
+.label{
+    display:inline-block;
+    width: 50px;
+}
